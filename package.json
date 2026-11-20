@@ -1,0 +1,13 @@
+{
+  "name": "ebd-tour",
+  "version": "1.0.0",
+  "description": "E BD TOUR App",
+  "scripts": {
+    "build": "echo 'Static HTML ready'"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
